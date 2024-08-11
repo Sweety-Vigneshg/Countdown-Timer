@@ -11,11 +11,11 @@ A simple and customizable countdown timer built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-Check out the live demo [here](#).
+Check out the live demo [here](https://sweety-vigneshg.github.io/Countdown-Timer/index.html).
 
 ## Screenshots
 
-![Countdown Timer Screenshot](#)
+![Countdown Timer Screenshot](https://github.com/Sweety-Vigneshg/Countdown-Timer/blob/main/screenshort.png)
 
 ## Usage
 
